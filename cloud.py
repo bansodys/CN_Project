@@ -6,6 +6,6 @@ fl=os.listdir()
 os.system("git add -A")
 os.system('''git commit -m "added codes" ''')
 os.system('''git remote add origin https://github.com/bansodys/CN_Project.git''')
-os.system('''git push -u origin main''')
+os.system('''git push -u origin master''')
 
 
