@@ -25,7 +25,7 @@ def f(x):
       store.append(' ')
   return tuple(store)                
 
-    
+
 # converts base 36 numbers to alphanumeric charactors.
 def rf(x):
     store = []
@@ -82,7 +82,7 @@ def de(c, k):
 def sprocess():
     table = []
     print('''\n         ---------------------------------------------------------
-               |            Secret splitting                   |
+               |            Password Secret Splitting                   |
          -----------------------------------------------------------''')
     while 1:
         try:
